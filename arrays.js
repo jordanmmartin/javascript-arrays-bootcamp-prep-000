@@ -38,3 +38,5 @@ var chocolateBars = [
     var newArray = array.slice(1)
     return newArray
   }
+  
+  
